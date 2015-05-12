@@ -1,6 +1,8 @@
+*bwa*
+.Rhistory
 .vagrant
 packer_cache/
 *fast*
 *bam*
 *sam*
-
+*sai*
