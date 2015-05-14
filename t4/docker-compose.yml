@@ -1,0 +1,4 @@
+foo:
+	build: .
+	command: 'echo FOO'
+	
